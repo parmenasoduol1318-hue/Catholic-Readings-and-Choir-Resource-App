@@ -36,3 +36,4 @@ def root():
     return {
         "message": "Catholic API Running"
     }
+    
